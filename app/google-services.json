@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403755257685",
+    "project_id": "mozik-app",
+    "storage_bucket": "mozik-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403755257685:android:c42ddce7a18574740829dc",
+        "android_client_info": {
+          "package_name": "com.example.mozikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403755257685-pobvf3nv7trtnig4a7hup0falf1hiu0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDRXkv7pioEhb3XXQc1TvgwM6PT4_rmSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403755257685-pobvf3nv7trtnig4a7hup0falf1hiu0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
